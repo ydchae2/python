@@ -1,0 +1,11 @@
+# git을 설치한다.
+# 터미널에서 git 버전을 확인한다. 
+# > git --version
+
+# 터미널에서 git 사용자 정보를 등록한다 
+# > git config --global user.name "ydchae2"
+# > git config --global user.email "ydchae@naver.com"
+
+# Git 초기화 
+# > git init
+
